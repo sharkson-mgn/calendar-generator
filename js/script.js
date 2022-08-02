@@ -38,7 +38,6 @@ var kalendarz = function()
 		'5_26':		['Dzień Matki',										'workday'],
 		//Czerwiec
 		'6_1':		['Dzień Dziecka',									'workday'],
-		'6_18':		['&#x2764;&#x2764;&#x2764;',						'workday'],
 		'6_21':		['Pierwszy dzień lata',								'workday'],
 		'6_23':		['Dzień Ojca',										'workday'],
 		//lipiec
